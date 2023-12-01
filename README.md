@@ -19,9 +19,9 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 ## **Prepared the data**
 
 - Use the `StandardScaler()` module from `scikit-learn` to normalize the data from the CSV file.
-  
+
 - Create a DataFrame with the scaled data and set the "_coin_id_" index from the original DataFrame as the index for the new DataFrame.
-  
+
    * The first five rows of the scaled DataFrame should appear as follows:
  
      
