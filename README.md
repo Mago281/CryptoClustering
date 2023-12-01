@@ -101,10 +101,10 @@ Use the elbow method on the PCA data to find the best value for `k` using the fo
 
 - Answer the following question in your notebook:
 
-   _* **What is the best value for `k` when using the PCA data?**_
+   * _**What is the best value for `k` when using the PCA data?**_
      
 
-   _* **Does it differ from the best k value found using the original data?**_
+   * _**Does it differ from the best k value found using the original data?**_
 
 
 
@@ -125,7 +125,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for `
 
 - Create a scatter plot using hvPlot as follows:
 
-   * Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_percentage_7d".
+   * Set the x-axis as _"price_change_percentage_24h"_ and the y-axis as _"price_change_percentage_7d"_.
 
    * Colour the graph points with the labels found using K-means.
 
@@ -133,7 +133,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for `
 
 - Answer the following question:
 
-   * What is the impact of using fewer features to cluster the data using K-Means?
+   * **What is the impact of using fewer features to cluster the data using K-Means?**
 
 
 
