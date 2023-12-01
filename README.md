@@ -8,7 +8,7 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 
 ## **Instructions**
 
-1. The 'Crypto_Clustering_starter_code.ipynb' file was provided; the file was renamed to `Crypto_Clustering.ipynb'.
+1. The `Crypto_Clustering_starter_code.ipynb` file was provided; the file was renamed to `Crypto_Clustering.ipynb`.
    
 2. Loaded the `crypto_market_data.csv` into a DataFrame.
    
@@ -28,7 +28,7 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 
 Use the elbow method to find the best value for `k` using the following steps:
 
-  - Create a list with the number of k values from 1 to 11.
+  - Create a list with the number of `k` values from 1 to 11.
     
   - Create an empty list to store the inertia values.
     
