@@ -8,21 +8,24 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 
 ## **Instructions**
 
-1. The `Crypto_Clustering_starter_code.ipynb` file was provided; the file was renamed to `Crypto_Clustering.ipynb`.
+1. The `Crypto_Clustering_starter_code.ipynb` file was provided and this file was renamed as `Crypto_Clustering.ipynb`.
    
-2. Loaded the `crypto_market_data.csv` into a DataFrame.
+2. The `crypto_market_data.csv` was loaded into a DataFrame.
    
-3. Got the summary statistics and plotted the data to see what the data looked like before proceeding.
+3. Displayed the sample data:
 
+   ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/3e635b09-d9a0-4631-92ad-796be9b0ef37)
+
+ <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
 ---
 
 ## **Prepared the data**
 
-- Use the `StandardScaler()` module from `scikit-learn` to normalize the data from the CSV file.
+- The `StandardScaler()` module from `scikit-learn` was used to normalize the data from the CSV file.
 
-- Create a DataFrame with the scaled data and set the "_coin_id_" index from the original DataFrame as the index for the new DataFrame.
+- Created a DataFrame with the scaled data and set the "_coin_id_" index from the original DataFrame as the index for the new DataFrame.
 
-   * The first five rows of the scaled DataFrame should appear as follows:
+   * Please refer to the image below for the first five rows of the scaled DataFrame:
  
      
 
