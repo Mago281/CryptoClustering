@@ -39,9 +39,9 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 
 ---
 
-## **Find the Best Value for `k` Using the Original Scaled DataFrame**
+## **Found the Best Value for `k` Using the Original Scaled DataFrame**
 
-Use the elbow method to find the best value for `k` using the following steps:
+Used the elbow method to find the best value for `k` using the following steps:
 
   - Create a list with the number of `k` values from 1 to 11.
     
