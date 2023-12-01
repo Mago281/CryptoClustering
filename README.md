@@ -5,18 +5,25 @@
 To use Python and Unsupervised Learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ---
+ <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
+---
 
 ## **Instructions**
 
 1. The `Crypto_Clustering_starter_code.ipynb` file was provided and this file was renamed as `Crypto_Clustering.ipynb`.
    
-2. The `crypto_market_data.csv` was loaded into a DataFrame.
-   
-3. Displayed the sample data:
+2. The `crypto_market_data.csv` was loaded into a DataFrame and the sample data was displayed:
 
    ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/3e635b09-d9a0-4631-92ad-796be9b0ef37)
+    
+3.  Generated the summary statistics:
 
- <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
+     ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/cfe8217b-b8df-4ddc-9f16-c15cca15be3e)
+   
+4. Plotted the data to see what was in the DataFrame:
+
+   ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/ad932e55-01ff-46e8-bfa0-0685567cca1d)
+
 ---
 
 ## **Prepared the data**
@@ -26,8 +33,9 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 - Created a DataFrame with the scaled data and set the "_coin_id_" index from the original DataFrame as the index for the new DataFrame.
 
    * Please refer to the image below for the first five rows of the scaled DataFrame:
- 
      
+    ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/ca8947a4-4101-45f1-9d5d-8598da67218c)
+
 
 ---
 
