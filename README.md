@@ -55,7 +55,7 @@ Used the elbow method to find the best value for `k` using the following steps:
 
   - Answered the following question:
    _**What is the best value for `k` ?**_
-    ### 4
+    #### The best value for `k`is 4
 
 ---
 
@@ -93,14 +93,13 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 
     * _**What is the total explained variance of the three principal components?**_
       
-      ### The total explained variance of the three principal components is almost 89%.
+      #### The total explained variance of the three principal components is almost 89%.
       
-
 - Created a new DataFrame with the PCA data and set the _"coin_id"_ index from the original DataFrame as the index for the new DataFrame.
 
     * The first five rows of the PCA DataFrame should appear as follows:
 
-      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="3000" height="350">
+      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="250" height="300">
 
 ---
 
