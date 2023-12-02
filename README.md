@@ -153,10 +153,12 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 
 Created a composite plot by using _hvPlot_ and the plus sign `( + )` operator to compare the elbow curve that was
 created from the original data with the one that was created from the PCA data. 
+
 ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/52c1f32d-24cb-4442-97e9-2c81ddc32d95)
 
 Created a composite plot by using hvPlot and the plus `( + )` operator to compare the cryptocurrency clusters that
 resulted from using the original data with those that resulted from the PCA data.
+
 ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/454101b0-48d0-4a53-afe5-3ddfa8325ca2)
 
 Answered the following question: **_Based on visually analysing the cluster analysis results, what’s the impact of
