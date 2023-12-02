@@ -120,13 +120,12 @@ Used the elbow method on the PCA data to find the best value for `k` using the f
 
    * _**What is the best value for `k` when using the PCA data?**_
      #### 4 appears to be the best value for `k`.
-
    * _**Does it differ from the best k value found using the original data?**_
      #### No, it does not differ from the best `k` value found when using the original data.
 
 ---
 
-## **Clustered Cryptocurrencies with K-means using the PCA Data**
+## **Clustered Cryptocurrencies with K-means by using the PCA Data**
 
 Performed the following steps to cluster the cryptocurrencies for the best value for `k` on the PCA data:
 
@@ -148,25 +147,21 @@ Performed the following steps to cluster the cryptocurrencies for the best value
  
      ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/42e9880e-38a7-4884-94e3-746f8316a495)
 
+---
 
-- Answered the following question:
+## **Visualised and Compared the Results**
 
-   * _**What is the impact of using fewer features to cluster the data using K-Means?**_
-     
-     #### After visually analysing the cluster analysis results, it appeared that reducing the number of features used to cluster the data using K-Means had very little significance. 
+Created a composite plot by using _hvPlot_ and the plus sign `( + )` operator to compare the elbow curve that was
+created from the original data with the one that was created from the PCA data. 
+![image](https://github.com/Mago281/CryptoClustering/assets/131424690/52c1f32d-24cb-4442-97e9-2c81ddc32d95)
 
+Created a composite plot by using hvPlot and the plus `( + )` operator to compare the cryptocurrency clusters that
+resulted from using the original data with those that resulted from the PCA data.
+![image](https://github.com/Mago281/CryptoClustering/assets/131424690/454101b0-48d0-4a53-afe5-3ddfa8325ca2)
 
-
-
-
-
-
-
-
-
-
-
-
+Answered the following question: **_Based on visually analysing the cluster analysis results, what’s the impact of
+using fewer features to cluster the data by using K-means?_**
+#### After visually analysing the cluster analysis results, it appeared that reducing the number of features used to cluster the data using K-Means had very little significance. 
 
 
 
