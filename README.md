@@ -43,17 +43,20 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
 
 Used the elbow method to find the best value for `k` using the following steps:
 
-  - Create a list with the number of `k` values from 1 to 11.
+  - Created a list with the number of `k` values from 1 to 11.
     
-  - Create an empty list to store the inertia values.
+  - Created an empty list to store the inertia values.
     
-  - Create a `for` loop to compute the inertia with each possible value of `k`.
+  - Created a `for` loop to compute the inertia with each possible value of `k`.
     
-  - Create a dictionary with the data to plot the elbow curve.
+  - Created a dictionary with the data to plot the elbow curve.
     
-  - Plot a line chart with all the inertia values computed with the different values of `k` to visually identify the optimal value for `k`.
+  - Plotted a line chart with all the inertia values computed with the different values of `k` to visually identify the optimal value for `k`.
     
-  - Answer the following question in your notebook: **_What is the best value for `k` ?_**
+    ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0)
+
+  - Answer the following question in your notebook:
+    **_What is the best value for `k` ?_**  ### **4**
 
 ---
 
