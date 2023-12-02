@@ -161,7 +161,7 @@ resulted from using the original data with those that resulted from the PCA data
 
 Answered the following question: **_Based on visually analysing the cluster analysis results, what’s the impact of
 using fewer features to cluster the data by using K-means?_**
-#### After visually analysing the cluster analysis results, it appeared that reducing the number of features used to cluster the data using K-Means had very little significance. 
+#### After visually analysing the cluster analysis results, it appeared that using fewer features to cluster the data by using K-means, had very little significance. 
 
 
 
