@@ -54,30 +54,36 @@ Used the elbow method to find the best value for `k` using the following steps:
      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0" width="700" height="300">
     
 
-  - Answer the following question in your notebook:
-    **_What is the best value for `k` ?_      4**
+  - Answered the following question:
+   ** _What is the best value for `k` ?_**
+    ### 4
 
 ---
 
-## **Cluster Cryptocurrencies with K-means Using the Original Scaled Data**
+## **Clustered Cryptocurrencies with K-means using the original scaled data**
 
-Use the following steps to cluster the cryptocurrencies for the best value for k on the original scaled data:
+Performed the following steps to cluster the cryptocurrencies for the best value for `k` on the original scaled data:
 
-- Initialise the K-means model with the best value for `k`.
+- Initialised the K-means model with the best value for `k`.
 
 - Fit the K-means model using the original scaled DataFrame.
 
-- Predict the clusters to group the cryptocurrencies using the original scaled DataFrame.
+- Predicted the clusters to group the cryptocurrencies using the original scaled DataFrame.
 
-- Create a copy of the original data and add a new column with the predicted clusters.
+- Created a copy of the original data and added a new column with the predicted clusters:
 
-- Create a scatter plot using hvPlot as follows:
+  ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/bbd4055d-4a53-4def-8e91-c9965c0a4fb8)
+
+- Created a scatter plot using hvPlot as follows:
 
    * Set the x-axis as _"PC1"_ and the y-axis as _"PC2"_.
 
-   * Colour the graph points with the labels found using K-means.
+   * Coloured the graph points with the labels found using K-means.
 
-   * Add the _"coin_id"_ column in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
+   * Added the _"coin_id"_ column in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
+ 
+  ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/6c00b1ee-869c-4f87-925f-40d1bb686ba8)
+
 
 ---
 
