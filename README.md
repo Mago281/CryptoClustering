@@ -75,7 +75,7 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 
 - Created a scatter plot using hvPlot as follows:
 
-   * Set the x-axis as _"PC1"_ and the y-axis as _"PC2"_.
+   * Set the x-axis as _"price_change_percentage_24h"_ and the y-axis as _"price_change_percentage_7d"_.
 
    * Coloured the graph points with the labels found using K-means.
 
@@ -92,7 +92,8 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 - Retrieved the explained variance to determine how much information could be attributed to each principal component and then answered the following question:
 
     * _**What is the total explained variance of the three principal components?**_
-    * 
+      
+      ### 
       
 
 - Create a new DataFrame with the PCA data and set the _"coin_id"_ index from the original DataFrame as the index for the new DataFrame.
