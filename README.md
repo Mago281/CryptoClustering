@@ -51,11 +51,11 @@ Used the elbow method to find the best value for `k` using the following steps:
     
   - Plotted a line chart with all the inertia values computed with the different values of `k` to visually identify the optimal value for `k`.
 
-     <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0" width="600" height="300">
+     <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0" width="700" height="300">
     
 
   - Answer the following question in your notebook:
-    **_What is the best value for `k` ?_   4**
+    **_What is the best value for `k` ?_      4**
 
 ---
 
