@@ -80,11 +80,8 @@ Performed the following steps to cluster the cryptocurrencies for the best value
    * Coloured the graph points with the labels found using K-means.
 
    * Added the _"coin_id"_ column in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
- 
-  ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/6c00b1ee-869c-4f87-925f-40d1bb686ba8)
 
   ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/fb9bb992-7c79-4bcd-a67c-4cda9581e1e1)
-
 
 ---
 
