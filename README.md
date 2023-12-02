@@ -34,7 +34,6 @@ To use Python and Unsupervised Learning to predict if cryptocurrencies are affec
      
     ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/ca8947a4-4101-45f1-9d5d-8598da67218c)
 
-
 ---
 
 ## **Found the Best Value for `k` Using the Original Scaled DataFrame**
@@ -83,7 +82,6 @@ Performed the following steps to cluster the cryptocurrencies for the best value
    * Added the _"coin_id"_ column in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
  
   ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/6c00b1ee-869c-4f87-925f-40d1bb686ba8)
-
 
 ---
 
