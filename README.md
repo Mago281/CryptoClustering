@@ -97,13 +97,13 @@ Performed the following steps to cluster the cryptocurrencies for the best value
       
 - Created a new DataFrame with the PCA data and set the _"coin_id"_ index from the original DataFrame as the index for the new DataFrame.
 
-    * The first five rows of the PCA DataFrame should appear as follows:
+    * Appended below is a snapshot of the first five rows of the PCA DataFrame:
 
-      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="250" height="300">
+      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="200" height="200">
 
 ---
 
-## **Find the Best Value for k Using the PCA Data**
+## **Find the Best Value for `k` Using the PCA Data**
 
 Use the elbow method on the PCA data to find the best value for `k` using the following steps:
 
