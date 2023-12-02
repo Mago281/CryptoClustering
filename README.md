@@ -92,14 +92,13 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 - Retrieved the explained variance to determine how much information could be attributed to each principal component and then answered the following question:
 
     * _**What is the total explained variance of the three principal components?**_
-      
       #### The total explained variance of the three principal components is almost 89%.
       
 - Created a new DataFrame with the PCA data and set the _"coin_id"_ index from the original DataFrame as the index for the new DataFrame.
 
     * Appended below is a snapshot of the first five rows of the PCA DataFrame:
 
-      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="200" height="200">
+      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="200" height="180">
 
 ---
 
