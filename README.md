@@ -87,13 +87,14 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 
 ---
 
-## **Optimise Clusters with Principal Component Analysis**
+## **Optimised Clusters with Principal Component Analysis (PCA)**
 
 - Using the original scaled DataFrame, perform a PCA and reduce the features to three principal components.
 
 - Retrieve the explained variance to determine how much information can be attributed to each principal component and then answer the following question in your notebook:
 
-    * **What is the total explained variance of the three principal components?**
+    * _**What is the total explained variance of the three principal components?**_
+    * 
       
 
 - Create a new DataFrame with the PCA data and set the _"coin_id"_ index from the original DataFrame as the index for the new DataFrame.
