@@ -101,7 +101,7 @@ Performed the following steps to cluster the cryptocurrencies for the best value
 
     * Appended below is a snapshot of the first five rows of the PCA DataFrame:
 
-      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="220" height="200">
+      <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/e7831d58-1e0a-4126-a022-9c62eae22eac" width="210" height="210">
 
 ---
 
