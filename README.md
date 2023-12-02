@@ -5,8 +5,6 @@
 To use Python and Unsupervised Learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ---
- <img src="https://github.com/Mago281/belly-button-challenge/assets/131424690/9de24c9c-f27e-41c3-a7df-a90f0fa0cbd7" width="250" height="250">
----
 
 ## **Instructions**
 
@@ -53,7 +51,7 @@ Used the elbow method to find the best value for `k` using the following steps:
     
   - Plotted a line chart with all the inertia values computed with the different values of `k` to visually identify the optimal value for `k`.
 
-     <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0" width="250" height="250">
+     <img src="https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0" width="600" height="300">
     
     ![image](https://github.com/Mago281/CryptoClustering/assets/131424690/bd3f4052-6d7f-4594-b4dd-a425ff556df0)
 
